@@ -38,8 +38,6 @@ I'm currently focused on learning and improving my skills. Feel free to check ou
 | --------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- | -------------------------------------- |
 | [Brain Games](https://github.com/0ksanaTkachenko/brain-games/blob/main/README.md) | Set of five console games built on the principle of popular mobile brain training applications | JavaScript, npm, readline-sync library |
 
-![snake animation](https://github.com/<seu0ksanaTkachenko>/<seu0ksanaTkachenko>/blob/output/github-contribution-grid-snake2.svg)
-
 ![snake animation](https://github.com/<0ksanaTkachenko>/<0ksanaTkachenko>/blob/output/github-contribution-grid-snake2.svg)
 
 [linkedin]: https://www.linkedin.com/in/oksana-tkachenko-86568829b/
