@@ -40,6 +40,8 @@ I'm currently focused on learning and improving my skills. Feel free to check ou
 
 ![snake animation](https://github.com/<seu0ksanaTkachenko>/<seu0ksanaTkachenko>/blob/output/github-contribution-grid-snake2.svg)
 
+![snake animation](https://github.com/<0ksanaTkachenko>/<0ksanaTkachenko>/blob/output/github-contribution-grid-snake2.svg)
+
 [linkedin]: https://www.linkedin.com/in/oksana-tkachenko-86568829b/
 [mail]: mailto:ksenia.tkachenko.ua@gmail.com
 [telegram]: https://t.me/Ksu_fka
