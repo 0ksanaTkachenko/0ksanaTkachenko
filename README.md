@@ -1,8 +1,10 @@
-## Hi there 👋 I'm Oksana 💜 Welcome to my profile.
+## Hi there 👋 I'm Oksana 💜 Welcome to my profile. ![](https://komarev.com/ghpvc/?username=0ksanaTkachenko&color=483D8B)
 
 ### I'm a Junior frontend developer, crafting user-friendly web interfaces.
 
-#### Seeking Opportunities in Toronto, ON 🌟 I am ready to work remotely or from the office.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=483D8B&random=false&width=435&lines=Seeking+Opportunities+in+Toronto%2C+ON)](https://git.io/typing-svg)
+
+#### I am ready to work remotely or from the office.
 
 I'm currently focused on learning and improving my skills. Feel free to check out the projects and skills I've worked on below.
 
@@ -35,6 +37,8 @@ I'm currently focused on learning and improving my skills. Feel free to check ou
 | Project                                                                           | Description                                                                                    | Tools used                             |
 | --------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- | -------------------------------------- |
 | [Brain Games](https://github.com/0ksanaTkachenko/brain-games/blob/main/README.md) | Set of five console games built on the principle of popular mobile brain training applications | JavaScript, npm, readline-sync library |
+
+![snake animation](https://github.com/<seu0ksanaTkachenko>/<seu0ksanaTkachenko>/blob/output/github-contribution-grid-snake2.svg)
 
 [linkedin]: https://www.linkedin.com/in/oksana-tkachenko-86568829b/
 [mail]: mailto:ksenia.tkachenko.ua@gmail.com
