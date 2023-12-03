@@ -1,3 +1,9 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/0ksanaTkachenko/0ksanaTkachenko/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/0ksanaTkachenko/0ksanaTkachenko/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/0ksanaTkachenko/0ksanaTkachenko/output/github-contribution-grid-snake.svg">
+</picture>
+
 ## Hi there 👋 I'm Oksana 💜 Welcome to my profile. ![](https://komarev.com/ghpvc/?username=0ksanaTkachenko&color=483D8B)
 
 ### I'm a Junior frontend developer, crafting user-friendly web interfaces.
@@ -37,14 +43,6 @@ I'm currently focused on learning and improving my skills. Feel free to check ou
 | Project                                                                           | Description                                                                                    | Tools used                             |
 | --------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- | -------------------------------------- |
 | [Brain Games](https://github.com/0ksanaTkachenko/brain-games/blob/main/README.md) | Set of five console games built on the principle of popular mobile brain training applications | JavaScript, npm, readline-sync library |
-
-#### My contribution graph get eaten by the snake 🐍:
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/0ksanaTkachenko/0ksanaTkachenko/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/0ksanaTkachenko/0ksanaTkachenko/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/0ksanaTkachenko/0ksanaTkachenko/output/github-contribution-grid-snake.svg">
-</picture>
 
 [linkedin]: https://www.linkedin.com/in/oksana-tkachenko-86568829b/
 [mail]: mailto:ksenia.tkachenko.ua@gmail.com
