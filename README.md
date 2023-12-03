@@ -40,6 +40,10 @@ I'm currently focused on learning and improving my skills. Feel free to check ou
 
 ![snake gif](https://github.com/0ksanaTkachenko/0ksanaTkachenko/blob/output/github-contribution-grid-snake.gif)
 
+#### My contribution graph get eaten by the snake 🐍:
+
+![github-contribution-grid-snake](https://github.com/0ksanaTkachenko/0ksanaTkachenko/blob/output/github-contribution-grid-snake.svg)
+
 [linkedin]: https://www.linkedin.com/in/oksana-tkachenko-86568829b/
 [mail]: mailto:ksenia.tkachenko.ua@gmail.com
 [telegram]: https://t.me/Ksu_fka
