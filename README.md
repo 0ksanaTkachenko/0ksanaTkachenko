@@ -38,11 +38,13 @@ I'm currently focused on learning and improving my skills. Feel free to check ou
 | --------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- | -------------------------------------- |
 | [Brain Games](https://github.com/0ksanaTkachenko/brain-games/blob/main/README.md) | Set of five console games built on the principle of popular mobile brain training applications | JavaScript, npm, readline-sync library |
 
-![snake gif](https://github.com/0ksanaTkachenko/0ksanaTkachenko/blob/output/github-contribution-grid-snake.gif)
-
 #### My contribution graph get eaten by the snake 🐍:
 
-![github-contribution-grid-snake](https://github.com/0ksanaTkachenko/0ksanaTkachenko/blob/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/0ksanaTkachenko/0ksanaTkachenko/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/0ksanaTkachenko/0ksanaTkachenko/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/0ksanaTkachenko/0ksanaTkachenko/output/github-contribution-grid-snake.svg">
+</picture>
 
 [linkedin]: https://www.linkedin.com/in/oksana-tkachenko-86568829b/
 [mail]: mailto:ksenia.tkachenko.ua@gmail.com
