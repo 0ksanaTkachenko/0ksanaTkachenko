@@ -43,6 +43,9 @@ I'm currently focused on learning and improving my skills. Feel free to check ou
 | Project                                                                           | Description                                                                                    | Tools used                             |
 | --------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- | -------------------------------------- |
 | [Brain Games](https://github.com/0ksanaTkachenko/brain-games/blob/main/README.md) | Set of five console games built on the principle of popular mobile brain training applications | JavaScript, npm, readline-sync library |
+| [Difference calculator](https://github.com/0ksanaTkachenko/difference-calculator) | The program is designed to compare and identify differences between two files | JavaScript, npm, Commander library, Lodash library, Jest framework |
+
+
 
 [linkedin]: https://www.linkedin.com/in/oksana-tkachenko-86568829b/
 [mail]: mailto:ksenia.tkachenko.ua@gmail.com
