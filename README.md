@@ -7,12 +7,16 @@
 ## Hi there 👋 I'm Oksana 💜 Welcome to my profile. ![](https://komarev.com/ghpvc/?username=0ksanaTkachenko&color=483D8B)
 
 ### I'm a Junior frontend developer, crafting user-friendly web interfaces.
+Feel free to check out the projects and skills I've worked on below.
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=483D8B&random=false&width=435&lines=Seeking+Opportunities+in+Toronto%2C+ON)](https://git.io/typing-svg)
+<p align="left">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=483D8B&random=false&width=600&lines=Seeking+Opportunities+in+Russia+or+Belarus" alt="Typing SVG">
+  </a>
+</p>
 
-#### I am ready to work remotely or from the office.
-
-I'm currently focused on learning and improving my skills. Feel free to check out the projects and skills I've worked on below.
+#### ✈️ **Open to relocation and available for remote or on-site work in Belarus.**
+#### 💻 **Ready to work remotely in Russia.**
 
 ### You can contact me by:
 
@@ -27,16 +31,19 @@ I'm currently focused on learning and improving my skills. Feel free to check ou
 
 ### ✨ Skills and Tools
 
-<img src="https://img.shields.io/badge/HTML5-483D8B?style=for-the-badge&logo=html5&logoColor=rad" /> <img src="https://img.shields.io/badge/CSS3-483D8B?style=for-the-badge&logo=css3&logoColor=blue" /> <img src="https://img.shields.io/badge/git-483D8B?style=for-the-badge&logo=git&logoColor=rad" /> <img src="https://img.shields.io/badge/github-483D8B?style=for-the-badge&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/javascript-483D8B?style=for-the-badge&logo=javascript&logoColor=yellow" /> <img src="https://img.shields.io/badge/vscode-483D8B?style=for-the-badge&logo=visualstudiocode&logoColor=blue" />
+<img src="https://img.shields.io/badge/react-483D8B?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/javascript-483D8B?style=for-the-badge&logo=javascript&logoColor=yellow" /> <img src="https://img.shields.io/badge/HTML5-483D8B?style=for-the-badge&logo=html5&logoColor=rad" /> <img src="https://img.shields.io/badge/CSS3-483D8B?style=for-the-badge&logo=css3&logoColor=blue" /> <img src="https://img.shields.io/badge/git-483D8B?style=for-the-badge&logo=git&logoColor=rad" /> <img src="https://img.shields.io/badge/github-483D8B?style=for-the-badge&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/vscode-483D8B?style=for-the-badge&logo=visualstudiocode&logoColor=blue" /> <img src="https://img.shields.io/badge/Jest-483D8B?style=for-the-badge&logo=Jest&logoColor=red" /> 
+
+
 
 ### 👩‍💻 Studing now
 
-<img src="https://img.shields.io/badge/react-483D8B?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/typescript-483D8B?style=for-the-badge&logo=typescript&logoColor=3178C6" />
+ <img src="https://img.shields.io/badge/typescript-483D8B?style=for-the-badge&logo=typescript&logoColor=3178C6" />
 
 ### Education
 
 - Hexlet. Course "frontend-developer". 2023 (in progress)
 - Skillup. Course "frontend-developer". 2022 - 2023 [Certificate](documents/Skillup-Certificate.pdf)
+- Dnipro University of Technology. Bachelor's Degree in Marketing. 
 
 ### My projects:
 
