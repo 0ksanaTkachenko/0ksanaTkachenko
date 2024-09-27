@@ -11,12 +11,12 @@ Feel free to check out the projects and skills I've worked on below.
 
 <p align="left">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=483D8B&random=false&width=600&lines=Seeking+Opportunities+in+Russia+or+Belarus" alt="Typing SVG">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=483D8B&random=false&width=600&lines=Seeking+Remote+Opportunities" alt="Typing SVG">
   </a>
 </p>
 
-#### ✈️ **Open to relocation and available for remote or on-site work in Belarus.**
-#### 💻 **Ready to work remotely in Russia.**
+#### ✈️ **Open to relocation**
+#### 💻 **Ready to work remotely**
 
 ### You can contact me by:
 
