@@ -54,7 +54,7 @@ Feel free to check out the projects and skills I've worked on below.
 
 
 [linkedin]: https://www.linkedin.com/in/oksana-tkachenko-86568829b/
-[mail]: mailto:ksenia.tkachenko.ua@gmail.com
+[mail]: oksana.tkachenko.tech@gmail.com
 [telegram]: https://t.me/Ksu_fka
 [whatsapp]: https://wa.me/0639362203
 [instagram]: https://www.instagram.com/__ksuf.ka_
