@@ -15,8 +15,7 @@ Feel free to check out the projects and skills I've worked on below.
   </a>
 </p>
 
-#### ✈️ **Open to relocation**
-#### 💻 **Ready to work remotely**
+#### ✈️ **Open to relocation** | 💻 **Ready to work remotely**
 
 ### You can contact me by:
 
