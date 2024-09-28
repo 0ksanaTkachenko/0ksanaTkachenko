@@ -15,6 +15,9 @@ Feel free to check out the projects and skills I've worked on below.
   </a>
 </p>
 
+#### CV | [Russian version](https://github.com/0ksanaTkachenko/0ksanaTkachenko/blob/main/documents/%D0%A0%D0%B5%D0%B7%D1%8E%D0%BC%D0%B5_%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9.pdf) | [English version](https://github.com/0ksanaTkachenko/0ksanaTkachenko/blob/main/documents/%D0%A1V_Oksana_Tkachenko.pdf)
+
+
 #### ✈️ **Open to relocation** | 💻 **Ready to work remotely**
 
 ### You can contact me by:
