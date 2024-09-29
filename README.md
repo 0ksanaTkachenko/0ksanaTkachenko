@@ -45,7 +45,7 @@ Feel free to check out the projects and skills I've worked on below.
 
 - Hexlet. Course "frontend-developer". 2023 (in progress)
 - Skillup. Course "frontend-developer". 2022 - 2023 [Certificate](documents/Skillup-Certificate.jpg)
-- Dnipro University of Technology. Bachelor's Degree in Marketing.[Certificate](documents/bachelor's-diploma.jpg) 
+- Dnipro University of Technology. Bachelor's Degree in Marketing. [Diploma](documents/bachelor's-diploma.jpg) 
 
 ### My projects:
 
