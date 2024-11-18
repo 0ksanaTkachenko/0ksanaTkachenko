@@ -51,9 +51,9 @@ Feel free to check out the projects and skills I've worked on below.
 
 | Project                                                                           | Description                                                                                    | Tools used                             |
 | --------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- | -------------------------------------- |
-| [Brain Games](https://github.com/0ksanaTkachenko/brain-games/blob/main/README.md) | Set of five console games built on the principle of popular mobile brain training applications | JavaScript, npm, readline-sync library |
-| [Difference calculator](https://github.com/0ksanaTkachenko/difference-calculator) | The program is designed to compare and identify differences between two files | JavaScript, npm, Commander library, Lodash library, Jest framework |
-
+| [Brain Games](https://github.com/0ksanaTkachenko/brain-games/blob/main/README.md) | Set of five console games built on the principle of popular mobile brain training applications | JavaScript, readline-sync library |
+| [Difference calculator](https://github.com/0ksanaTkachenko/difference-calculator) | The program is designed to compare and identify differences between two files | JavaScript, Commander library, Lodash library, Jest framework |
+| [RSS-aggregator](https://github.com/0ksanaTkachenko/RSS-aggregator) | An RSS aggregator manages and displays content from multiple RSS feeds in one place | Bootstrap, JavaScript, Webpack, Yup, On-change, i18next, Axios, All Origins
 
 
 [linkedin]: https://www.linkedin.com/in/oksana-tkachenko-86568829b/
