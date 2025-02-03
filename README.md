@@ -6,7 +6,7 @@
 
 ## Hi there 👋 I'm Oksana 💜 Welcome to my profile. ![](https://komarev.com/ghpvc/?username=0ksanaTkachenko&color=483D8B)
 
-### I'm a Junior frontend developer, crafting user-friendly web interfaces.
+### I'm a frontend developer, crafting user-friendly web interfaces.
 Feel free to check out the projects and skills I've worked on below.
 
 <p align="left">
@@ -15,8 +15,7 @@ Feel free to check out the projects and skills I've worked on below.
   </a>
 </p>
 
-#### CV | [Russian version](https://github.com/0ksanaTkachenko/0ksanaTkachenko/blob/main/documents/%D0%A0%D0%B5%D0%B7%D1%8E%D0%BC%D0%B5_%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9.pdf) | [English version](https://github.com/0ksanaTkachenko/0ksanaTkachenko/blob/main/documents/%D0%A1V_Oksana_Tkachenko.pdf)
-
+#### [CV](documents/СV_Oksana_Tkachenko.pdf)
 
 #### ✈️ **Open to relocation** | 💻 **Ready to work remotely**
 
@@ -33,7 +32,9 @@ Feel free to check out the projects and skills I've worked on below.
 
 ### ✨ Skills and Tools
 
-<img src="https://img.shields.io/badge/react-483D8B?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/javascript-483D8B?style=for-the-badge&logo=javascript&logoColor=yellow" /> <img src="https://img.shields.io/badge/HTML5-483D8B?style=for-the-badge&logo=html5&logoColor=rad" /> <img src="https://img.shields.io/badge/CSS3-483D8B?style=for-the-badge&logo=css3&logoColor=blue" /> <img src="https://img.shields.io/badge/git-483D8B?style=for-the-badge&logo=git&logoColor=rad" /> <img src="https://img.shields.io/badge/github-483D8B?style=for-the-badge&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/vscode-483D8B?style=for-the-badge&logo=visualstudiocode&logoColor=blue" /> <img src="https://img.shields.io/badge/Jest-483D8B?style=for-the-badge&logo=Jest&logoColor=red" /> 
+<img src="https://img.shields.io/badge/react-483D8B?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/javascript-483D8B?style=for-the-badge&logo=javascript&logoColor=yellow" /> <img src="https://img.shields.io/badge/HTML5-483D8B?style=for-the-badge&logo=html5&logoColor=rad" /> <img src="https://img.shields.io/badge/CSS3-483D8B?style=for-the-badge&logo=css3&logoColor=blue" /> <img src="https://img.shields.io/badge/git-483D8B?style=for-the-badge&logo=git&logoColor=rad" /> <img src="https://img.shields.io/badge/github-483D8B?style=for-the-badge&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/vscode-483D8B?style=for-the-badge&logo=visualstudiocode&logoColor=blue" /> <img src="https://img.shields.io/badge/Jest-483D8B?style=for-the-badge&logo=Jest&logoColor=red" /> <img src="https://img.shields.io/badge/bootstrap-483D8B?style=for-the-badge&logo=bootstrap&logoColor=#7952B3" />
+
+
 
 
 
