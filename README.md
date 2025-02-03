@@ -43,7 +43,7 @@ Feel free to check out the projects and skills I've worked on below.
 
 ### Education
 
-- Hexlet. Course "frontend-developer". 2023 (in progress)
+- Hexlet. Course "frontend-developer". 2023 - 2025 [Certificate](documents/Oksana_Tkachenko.png)
 - Skillup. Course "frontend-developer". 2022 - 2023 [Certificate](documents/Skillup-Certificate.jpg)
 - Dnipro University of Technology. Bachelor's Degree in Marketing. [Diploma](documents/bachelor's-diploma.jpg) 
 
@@ -53,7 +53,8 @@ Feel free to check out the projects and skills I've worked on below.
 | --------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- | -------------------------------------- |
 | [Brain Games](https://github.com/0ksanaTkachenko/brain-games/blob/main/README.md) | Set of five console games built on the principle of popular mobile brain training applications | JavaScript, readline-sync library |
 | [Difference calculator](https://github.com/0ksanaTkachenko/difference-calculator) | The program is designed to compare and identify differences between two files | JavaScript, Commander library, Lodash library, Jest framework |
-| [RSS-aggregator](https://github.com/0ksanaTkachenko/RSS-aggregator) | An RSS aggregator manages and displays content from multiple RSS feeds in one place | Bootstrap, JavaScript, Webpack, Yup, On-change, i18next, Axios, All Origins
+| [RSS-aggregator](https://github.com/0ksanaTkachenko/RSS-aggregator) | An RSS aggregator manages and displays content from multiple RSS feeds in one place | Bootstrap, JavaScript, Webpack, Yup, On-change, i18next, Axios, All Origins |
+| [Chat](https://github.com/0ksanaTkachenko/Chat) | Chat is a modern web application for real-time messaging with JWT authentication, channel management, and profanity filtering | Vite, React, Formik, Yup, Redux Toolkit,  WebSockets, JWT, i18n, React Toastify, Leo Profanity, Rollbar 
 
 
 [linkedin]: https://www.linkedin.com/in/oksana-tkachenko-86568829b/
