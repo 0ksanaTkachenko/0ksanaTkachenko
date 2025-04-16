@@ -11,7 +11,7 @@ Feel free to check out the projects and skills I've worked on below.
 
 <p align="left">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=483D8B&random=false&width=600&lines=Seeking+Remote+Opportunities" alt="Typing SVG">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=483D8B&random=false&width=600&lines=Seeking+New+Opportunities" alt="Typing SVG">
   </a>
 </p>
 
